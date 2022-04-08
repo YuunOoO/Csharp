@@ -1,0 +1,15 @@
+C:\Users\DAreczek\source\repos\C#\App2 Calculator\bin\Debug\net5.0\App2 Calculator.exe
+C:\Users\DAreczek\source\repos\C#\App2 Calculator\bin\Debug\net5.0\App2 Calculator.deps.json
+C:\Users\DAreczek\source\repos\C#\App2 Calculator\bin\Debug\net5.0\App2 Calculator.runtimeconfig.json
+C:\Users\DAreczek\source\repos\C#\App2 Calculator\bin\Debug\net5.0\App2 Calculator.runtimeconfig.dev.json
+C:\Users\DAreczek\source\repos\C#\App2 Calculator\bin\Debug\net5.0\App2 Calculator.dll
+C:\Users\DAreczek\source\repos\C#\App2 Calculator\bin\Debug\net5.0\ref\App2 Calculator.dll
+C:\Users\DAreczek\source\repos\C#\App2 Calculator\bin\Debug\net5.0\App2 Calculator.pdb
+C:\Users\DAreczek\source\repos\C#\App2 Calculator\obj\Debug\net5.0\App2 Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DAreczek\source\repos\C#\App2 Calculator\obj\Debug\net5.0\App2 Calculator.AssemblyInfoInputs.cache
+C:\Users\DAreczek\source\repos\C#\App2 Calculator\obj\Debug\net5.0\App2 Calculator.AssemblyInfo.cs
+C:\Users\DAreczek\source\repos\C#\App2 Calculator\obj\Debug\net5.0\App2 Calculator.csproj.CoreCompileInputs.cache
+C:\Users\DAreczek\source\repos\C#\App2 Calculator\obj\Debug\net5.0\App2 Calculator.dll
+C:\Users\DAreczek\source\repos\C#\App2 Calculator\obj\Debug\net5.0\ref\App2 Calculator.dll
+C:\Users\DAreczek\source\repos\C#\App2 Calculator\obj\Debug\net5.0\App2 Calculator.pdb
+C:\Users\DAreczek\source\repos\C#\App2 Calculator\obj\Debug\net5.0\App2 Calculator.genruntimeconfig.cache

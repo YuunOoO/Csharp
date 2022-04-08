@@ -1,0 +1,16 @@
+C:\Users\DAreczek\source\repos\C#\App1\App1\bin\Debug\net5.0\App1.exe
+C:\Users\DAreczek\source\repos\C#\App1\App1\bin\Debug\net5.0\App1.deps.json
+C:\Users\DAreczek\source\repos\C#\App1\App1\bin\Debug\net5.0\App1.runtimeconfig.json
+C:\Users\DAreczek\source\repos\C#\App1\App1\bin\Debug\net5.0\App1.runtimeconfig.dev.json
+C:\Users\DAreczek\source\repos\C#\App1\App1\bin\Debug\net5.0\App1.dll
+C:\Users\DAreczek\source\repos\C#\App1\App1\bin\Debug\net5.0\ref\App1.dll
+C:\Users\DAreczek\source\repos\C#\App1\App1\bin\Debug\net5.0\App1.pdb
+C:\Users\DAreczek\source\repos\C#\App1\App1\obj\Debug\net5.0\App1.csproj.AssemblyReference.cache
+C:\Users\DAreczek\source\repos\C#\App1\App1\obj\Debug\net5.0\App1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DAreczek\source\repos\C#\App1\App1\obj\Debug\net5.0\App1.AssemblyInfoInputs.cache
+C:\Users\DAreczek\source\repos\C#\App1\App1\obj\Debug\net5.0\App1.AssemblyInfo.cs
+C:\Users\DAreczek\source\repos\C#\App1\App1\obj\Debug\net5.0\App1.csproj.CoreCompileInputs.cache
+C:\Users\DAreczek\source\repos\C#\App1\App1\obj\Debug\net5.0\App1.dll
+C:\Users\DAreczek\source\repos\C#\App1\App1\obj\Debug\net5.0\ref\App1.dll
+C:\Users\DAreczek\source\repos\C#\App1\App1\obj\Debug\net5.0\App1.pdb
+C:\Users\DAreczek\source\repos\C#\App1\App1\obj\Debug\net5.0\App1.genruntimeconfig.cache
